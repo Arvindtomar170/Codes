@@ -4,8 +4,10 @@
      merging two sorted array --> for that we creat an ectrat array 
                                   size  of the addition array created should be equal to the sum of the size of two merging array
                                   the copy the data from two sorted array to the new array such tha the new array is sorted 
-                                  then copy back the data of the new array 
-                
+                                  then copy back the data of the new array --
+
+
+
 */
 
 
